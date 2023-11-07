@@ -1,0 +1,5 @@
+Shane Connelly — 11/06/2023 at 8:32 AM
+in case anyone is using an external LLM for chatbot-like functionality, today Vectara announced its new hallucination evaluation model: an open source project developed to measure how much LLMs hallucinate
+https://vectara.com/measuring-hallucinations-in-rag-systems/
+https://vectara.com/cut-the-bull-detecting-hallucinations-in-large-language-models/
+https://www.nytimes.com/2023/11/06/technology/chatbots-hallucination-rates.html
