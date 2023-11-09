@@ -14,4 +14,6 @@ Notable achievements:
 
 See all related scripts and materials in this repository.
 Future plan: evaluate RAG Fusion how that affects the project (answer quality, latency, ...).
-The final application will be integrated into ThruThink which uses ASP.NET MVC / C# / Azure technology stack, but not open source. IN that final deployment I'll be able to open up referred help topics using the meta-data I get back as part of the query results document references.
+The final application will be integrated into ThruThink which uses ASP.NET MVC / C# / Azure technology stack, but not open source. In that final deployment I'll be able to open up referred help topics using the meta-data I get back as part of the query results document references.
+
+In the end the hackathon had an arc of a story which became full circle. I thought I may need RAG Fusion, but helping the indexing with extra documents and *"QnA boosting"* resulted in satisfiable outcome with the deployed instance in Render. (Earlier queries can be seen in the https://github.com/CsabaConsulting/Vectara/blob/main/QueryCorpus.ipynb and the https://github.com/CsabaConsulting/Vectara/blob/main/QueryCorpusWQnA.ipynb notebooks).
