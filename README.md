@@ -1,7 +1,7 @@
 # QBRAG: QnA Boosted RAG with [Vectara](https://vectara.com/)
 
 A company's knowledge bases often don't answer the wide variety of questions a user could come up with.
-A Customer Support system ideally could answer specific (but wide variety) questions about the company's systems and knowledge (example: "How can I enter Cash Flow in ThruThink?"). But sometimes the user asks generic questions, such as "What is Cash Flow?" which could be sourced from the mind of a giant LLM model and / or the internet.
+A Customer Support system ideally could answer specific (but wide variety) questions about the company's systems and knowledge (example: *"How can I enter Cash Flow in ThruThink?"*). But sometimes the user asks generic questions, such as *"What is Cash Flow?"* which could be sourced from the mind of a giant LLM model and / or the internet.
 
 My idea is to help and boost the performance by leveraging Question and Answer generation techniques - normally used for fine tuning but in this case - for knowledge base augmentation / indexing enrichment. The generated questions could support specific user queries potentially better matching than a "non focused" indexed generic knowledge base.
 
