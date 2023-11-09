@@ -14,3 +14,4 @@ Notable achievements:
 
 See all related scripts and materials in this repository.
 Future plan: evaluate RAG Fusion how that affects the project (answer quality, latency, ...).
+The final application will be integrated into ThruThink which uses ASP.NET MVC / C# / Azure technology stack, but not open source. IN that final deployment I'll be able to open up referred help topics using the meta-data I get back as part of the query results document references.
