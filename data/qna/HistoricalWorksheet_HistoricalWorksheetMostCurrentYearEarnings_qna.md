@@ -1,0 +1,14 @@
+Question: What is the purpose of the Most Current Earnings section on the Historical Worksheet?
+Answer: The purpose of the Most Current Earnings section on the Historical Worksheet is to capture the earnings for the current year or the most recent partial year. This section allows users to input the period represented, such as YTD (Year-to-Date) 7/31/xx for a partial year. The user is required to enter the number of months that the 'Most Current Year Earnings' column represents. If the earnings represent a full year, the user should input 12. However, if the earnings represent a partial year, the user should input the number of months that the partial year represents. The worksheet will then automatically convert the partial year earnings to a 12-month basis by dividing the amount by the number of partial months and multiplying it by 12. This section helps in accurately representing and comparing earnings data for different time periods.
+---
+Question: How should the Year Input be entered for the Most Current Year Earnings?
+Answer: For the Most Current Year Earnings section on the Historical Worksheet, the Year Input should be entered to represent the period being reported. If the earnings represent a full year, you should enter "12" to indicate that it represents 12 months. However, if the earnings represent a partial year, you should enter the number of months that the partial year represents. The worksheet will then convert the partial year earnings to a 12-month basis by dividing the amount by the number of partial months and multiplying it by 12.
+---
+Question: What should be entered in the 'Most Current Year Earnings' column if it represents a full year?
+Answer: If the 'Most Current Year Earnings' column represents a full year, you should enter the number 12.
+---
+Question: How should the number of months for a partial year be entered in the worksheet?
+Answer: To enter the number of months for a partial year in the Historical Worksheet's Most Current Earnings section, you should input the number of months that the partial year represents. For example, if the partial year represents 6 months, you would enter "6" in the Year Input field. The worksheet will then convert the partial year to a 12-month basis by dividing the amount by the number of partial months and multiplying it by 12.
+---
+Question: How does the worksheet convert a partial year to a 12 month basis?
+Answer: The worksheet converts a partial year to a 12 month basis by dividing the amount by the number of partial months and then multiplying it by 12. This calculation is done to normalize the earnings for comparison purposes. For example, if the 'Most Current Year Earnings' column represents a partial year of 6 months, the amount entered will be divided by 6 and then multiplied by 12 to estimate the earnings for a full year. This conversion allows for consistent analysis and comparison of earnings data across different time periods.

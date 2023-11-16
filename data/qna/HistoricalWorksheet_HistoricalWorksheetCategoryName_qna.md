@@ -1,0 +1,20 @@
+Question: What is the purpose of the Historical Worksheet?
+Answer: The purpose of the Historical Worksheet is to allow the user to identify each item with a separate identifying category, such as a company or item type. This feature can be used to differentiate items based on the target company, existing company, or two companies that will be combined in the projections, or even two types of items. By entering a "1" or "2" for a separate identifier, the user can break out the categories separately in the totals on the Historical Worksheet. However, it is important to note that entering nothing for the category number will result in the totals not being split out by individual category.
+---
+Question: How can the User identify each item on the Historical Worksheet?
+Answer: On the Historical Worksheet, the User can identify each item by assigning a separate identifying category such as a company or item type. This can be done by entering a "1" or "2" for a separate identifier. The purpose of this optional input is to breakout the categories separately in the totals on the Historical Worksheet. If the User does not enter anything for the Category number, then the Totals will not be split out by individual Category.
+---
+Question: What are some examples of separate identifying categories that can be used?
+Answer: The text does not provide specific examples of separate identifying categories that can be used on the Historical Worksheet. However, based on the information provided, some possible examples of separate identifying categories could include:
+1. Company: The user can use separate identifying categories to differentiate items based on the target company or existing company. For example, if the historical data includes financial information for multiple companies, the user can assign a separate identifier (e.g., "1" for Target Company and "2" for Existing Company) to distinguish between the two.
+2. Item Type: Another possible use of separate identifying categories is to classify items based on their type. For instance, if the historical data includes different types of products or services, the user can assign a separate identifier (e.g., "1" for Product A and "2" for Product B) to categorize them separately.
+It's important to note that the text mentions that the choice of separate identifying categories is optional and depends on the user's specific needs. The purpose of these categories is to break out the totals on the Historical Worksheet based on individual categories, providing a more detailed analysis if desired.
+---
+Question: What should be entered for a separate identifier?
+Answer: For a separate identifier on the Historical Worksheet, you should enter either "1" or "2". This identifier is used to categorize each item separately, such as by company or item type. It allows you to distinguish items based on the Target Company, Existing Company, two companies being combined in projections, or two types of items. The purpose of this optional input is to break out the categories separately in the totals on the Historical Worksheet. If you do not enter anything for the Category number, the totals will not be split out by individual Category.
+---
+Question: Is entering a separate identifier mandatory?
+Answer: No, entering a separate identifier on the Historical Worksheet is not mandatory. It is an optional input that allows the user to identify each item with a separate identifying category such as a company or item type. The purpose of this separate identifier is to breakout the categories separately in the totals on the Historical Worksheet. If the user chooses not to enter a category number, the totals will not be split out by individual category.
+---
+Question: What happens if nothing is entered for the Category number?
+Answer: If nothing is entered for the Category number on the Historical Worksheet, the totals will not be split out by individual Category. In other words, the items will not be categorized separately, and the totals will not be broken down based on different categories.

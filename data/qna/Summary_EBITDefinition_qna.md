@@ -1,0 +1,11 @@
+Question: What does EBIT stand for?
+Answer: EBIT stands for Earnings before Interest and Taxes.
+---
+Question: How is EBIT derived?
+Answer: EBIT, which stands for Earnings before Interest and Taxes, is derived by using EBITDA (Earnings before Interest, Taxes, Depreciation, and Amortization) and subtracting annual depreciation and amortization expenses. This calculation allows for a clearer understanding of a company's operating profitability by excluding the impact of interest and taxes. In the context of *ThruThink*, EBIT is specifically used as a component of the EBIT/Total Assets measure. This measure is calculated by dividing EBIT by Total Assets, which have already been adjusted for accumulated depreciation and amortization. Since EBITDA does not account for these expenses, using it in the EBIT/Total Assets measure would be inconsistent. Therefore, EBIT is considered more appropriate for this particular calculation.
+---
+Question: In what measure is EBIT used in *ThruThink*?
+Answer: In *ThruThink*, EBIT (Earnings before Interest and Taxes) is used as a part of the EBIT/Total Assets measure. This measure takes into account the total assets of a company after deducting accumulated depreciation and amortization. Since EBITDA (Earnings before Interest, Taxes, Depreciation, and Amortization) does not account for the deduction of depreciation and amortization expenses, it is considered inconsistent for this measure. Therefore, EBIT is deemed more appropriate for calculating the EBIT/Total Assets measure in *ThruThink*.
+---
+Question: Why is EBIT used instead of EBITDA in the EBIT/Total Assets measure in *ThruThink*?
+Answer: In *ThruThink*, EBIT (Earnings before Interest and Taxes) is used instead of EBITDA (Earnings before Interest, Taxes, Depreciation, and Amortization) in the EBIT/Total Assets measure for a specific reason. The reason is that Total Assets in *ThruThink* have already been adjusted for accumulated depreciation and amortization. Since EBITDA does not account for the deduction of depreciation and amortization expenses, using EBITDA in the EBIT/Total Assets measure would be inconsistent with the adjusted Total Assets. Therefore, EBIT, which already takes into account the deduction of annual depreciation and amortization, is considered more appropriate for this measure in *ThruThink*.

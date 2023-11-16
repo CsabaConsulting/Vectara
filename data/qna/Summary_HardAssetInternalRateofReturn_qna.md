@@ -1,0 +1,27 @@
+Question: What does the Hard Asset Liquidation IRR measure?
+Answer: The Hard Asset Liquidation IRR measures the internal rate of return of an investment in a company. It calculates the return based on the annual net income of the company, assuming it is paid out each year. The calculation takes into account the net balance sheet assets at book value, excluding non-cash assets like goodwill and amortization of acquisition costs. It also subtracts retained earnings and all liabilities of the company, which represents the hard asset value. 
+The purpose of this measurement is to evaluate the return from the actual operating performance of the company, without considering any gain on sale. By excluding market value gain on sale, the analysis focuses solely on the operating profitability of the company, rather than the potential future value from an exit sale. If the operating performance of the company is deemed acceptable, any market value gain will naturally follow. 
+It is important to note that when the initial equity is zero or negative, the result of the Hard Asset Liquidation IRR will be zero.
+---
+Question: How is the return calculated in the Hard Asset Liquidation IRR?
+Answer: The return in the Hard Asset Liquidation IRR is calculated based on the annual Company Net Income as if it were paid out each year. The calculation takes into account the net of the Balance Sheet assets at Book Value, excluding non-cash assets such as Goodwill and Amortization of Acquisition Costs. It also subtracts an amount for all retained earnings (assuming they were previously paid out) and all of the Company's liabilities (Hard Asset Value). 
+This calculation allows for the measurement of the return from the actual operating performance of the Company, without factoring in any benefit from a Gain on Sale. By excluding a Market Value Gain on Sale, the analysis focuses solely on the operating profitability of the Company and does not consider the future value of an Exit Sale. If the operating performance of the Company is deemed acceptable, the Market Value Gain will naturally follow. 
+It is important to note that when the Initial Equity is zero or negative, the resulting IRR will be zero.
+---
+Question: What assets are excluded from the calculation of the Hard Asset Liquidation IRR?
+Answer: The Hard Asset Liquidation IRR calculation excludes non-cash assets such as Goodwill and Amortization of Acquisition Costs. These assets are not considered in the calculation of the investment return.
+---
+Question: What is subtracted from the net of the Balance Sheet assets to calculate the Hard Asset Liquidation IRR?
+Answer: To calculate the Hard Asset Liquidation IRR, the net of the Balance Sheet assets at Book Value is subtracted by the non-cash assets of Goodwill and Amortization of Acquisition Costs. Additionally, an amount is subtracted for all retained earnings (assumed to be previously paid out) and all of the Company's liabilities (Hard Asset Value). This calculation aims to exclude non-operating factors such as non-cash assets and liabilities, focusing solely on the operating profitability of the Company.
+---
+Question: What does the Hard Asset Liquidation IRR focus on in terms of the Company's performance?
+Answer: The Hard Asset Liquidation IRR focuses on the operating profitability of the Company without considering any potential gain from a sale. It measures the return from the actual operating performance of the Company, excluding any benefit from a gain on sale. This analysis concentrates solely on the Company's operating performance and does not take into account the future value of an exit sale. If the operating performance of the Company is satisfactory, any market value gain will naturally follow.
+---
+Question: What is the significance of not including a Market Value Gain on Sale in the Hard Asset Liquidation IRR?
+Answer: The significance of not including a Market Value Gain on Sale in the Hard Asset Liquidation IRR is that it allows for a more focused analysis of the operating profitability of the company. By excluding any potential gains from the sale of assets, the calculation solely considers the return from the actual operating performance of the company. This approach helps to assess the company's ability to generate profits and measure its performance without relying on future asset sales. If the operating performance of the company is deemed acceptable based on this analysis, any market value gains from asset sales can be seen as an additional benefit that follows accordingly.
+---
+Question: What happens to the Market Value Gain if the operating performance of the Company is acceptable?
+Answer: If the operating performance of the Company is acceptable, the Market Value Gain will follow accordingly. This means that if the Company is performing well in terms of its operations and profitability, it is likely to experience a positive Market Value Gain. The Market Value Gain refers to the increase in the value of the Company's assets, particularly in the context of a potential sale or exit from the investment. By focusing on the operating profitability of the Company and not including any benefit from a Gain on Sale, the Hard Asset Internal Rate of Return calculation allows for a more accurate assessment of the Company's actual performance.
+---
+Question: What is the result of the IRR when the Initial Equity is zero or negative?
+Answer: When the Initial Equity is zero or negative, the result of the Internal Rate of Return (IRR) calculation will be zero.

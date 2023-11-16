@@ -1,0 +1,23 @@
+Question: What is the purpose of the Individually Scheduled Accounts Receivable Debt Input?
+Answer: The purpose of the Individually Scheduled Accounts Receivable Debt Input is to consolidate multiple individual loans into one Line of Credit at each location. This input allows the user to list and track the details of each individual loan, such as the loan amount, interest rate, and eligibility percentage. However, after the Effective Date, these individual loans will be rolled into one Line of Credit. The inclusion of separate individual loans in the input is only intended to provide the user with a detailed view of the consolidation process. The separate Loan to Value and Ineligible Inputs are provided for informational purposes to calculate weighted averages and guide the inputs for the future line of credit.
+---
+Question: Where will the total of the Individually Scheduled Debts be sent?
+Answer: The total of the Individually Scheduled Debts will be sent either to the Transaction Sheet or the Existing Company (Location) as indicated by the User Inputs.
+---
+Question: What will happen to these loans after the Effective Date?
+Answer: After the Effective Date, these loans will be consolidated into one Line of Credit at each Location. Each Location will have one average Interest Rate, Loan to Value, and Ineligible percentage. The purpose of including separate individual loans in the Individual Item Schedule is to provide the User with a detailed view of the consolidation process. The separate Loan to Value and Ineligible Inputs are for informational purposes only and will be used to calculate the Weighted Average for the Inputs of the Future line of credit. For more information on the inputs that will apply to the future line of credit, please refer to the Accounts Receivable - Future Terms Set-Up.
+---
+Question: How many average Interest Rates, Loan to Value, and Ineligible percentages will each Location have?
+Answer: Each Location will have one average Interest Rate, Loan to Value, and Ineligible percentage.
+---
+Question: Why are separate individual loans included in the Individual Item Schedule?
+Answer: Separate individual loans are included in the Individual Item Schedule to provide the user with a detailed view of the consolidation of multiple items into one Line of Credit. This schedule allows the user to see the specific debts that will be rolled into the Line of Credit at each location. It provides transparency and clarity regarding the composition of the consolidated debt. However, it is important to note that the inclusion of separate individual loans in the schedule is primarily for informational purposes and to facilitate the calculation of weighted average values for the future line of credit inputs.
+---
+Question: Where can you find the inputs that will apply to the future line of credit?
+Answer: You can find the inputs that will apply to the future line of credit in the "Accounts Receivable - Future Terms Set-Up" section. This section provides the necessary information for the consolidation of individual loans into one line of credit, including the average interest rate, loan to value, and ineligible percentage for each location. The separate loan to value and ineligible inputs mentioned in the text are only for information purposes and are used to calculate the weighted average for the future line of credit.
+---
+Question: What is the purpose of the separate Loan to Value and Ineligible Inputs?
+Answer: The purpose of the separate Loan to Value and Ineligible Inputs is to provide information for the Weighted Average calculations. These inputs are not used for any actual transactions or actions, but rather serve as a guide for the inputs that will be used for the future line of credit. They are intended to provide the user with a detailed understanding of the consolidation of multiple individual loans into one line of credit. The separate inputs help calculate the weighted average values, which can be used as a reference or guide for determining the inputs for the future line of credit.
+---
+Question: What do the Weighted Average calculations provide?
+Answer: The Weighted Average calculations provide a guide for the inputs for the future line of credit. These calculations take into account the separate Loan to Value and Ineligible Inputs for each individual loan listed in the Individual Item Schedule. The purpose of these calculations is to determine the average interest rate, loan to value, and ineligible percentage for the consolidated line of credit that will be created after the Effective Date. This information is provided for informational purposes and helps the user understand the overall composition and characteristics of the future line of credit.

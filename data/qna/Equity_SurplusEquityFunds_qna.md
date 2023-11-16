@@ -1,0 +1,20 @@
+Question: What are Surplus Funds?
+Answer: Surplus Funds refer to the excess amount of funds that are provided through debt and equity contributions in a transaction, beyond what is required for that transaction. These surplus funds can be generated from new debt or cash equity contributions specifically made for the transaction, or they can arise from pre-existing debt assumed from the seller and used in the transaction. 
+In the context of an acquisition escrow, if there are surplus funds, they will be considered distributed to the equity groups involved in the transaction. The distribution will be based on the percentage of their equity contributions or, if there were no equity contributions, their equity ownership in the company. This distribution will be reflected as an equity distribution in the equity section of the post-closing beginning balance sheet.
+It is important to note that if there are surplus funds, the calculations for internal rate of return (IRR) and modified internal rate of return (MIRR) will default to "0" since there is no investment on which to calculate a return.
+---
+Question: How can Surplus Funds be created in a Transaction?
+Answer: Surplus Funds can be created in a Transaction through two main ways:
+1. New Debt or Cash Equity Contributions: When more funds are provided through debt or equity contributions than what is required for the Transaction, the excess amount will be considered Surplus Funds. This means that if the total amount of debt or cash equity contributed exceeds the amount needed for the Transaction, the difference will be considered Surplus Funds.
+2. Pre-existing Debt Assumed from the Seller: Surplus Funds can also be created if there is pre-existing debt assumed from the Seller that is being used in the Transaction. If the assumed debt amount is greater than what is required for the Transaction, the excess amount will be considered Surplus Funds.
+It is important to note that Surplus Funds created from new debt or equity contributions will be distributed during the acquisition escrow to the Equity Groups. The distribution will be based on the percentage of their equity contributions or, if there are no equity contributions, their equity ownership in the Company. This distribution will be reflected as an Equity distribution in the Equity Section of the post-closing beginning Balance Sheet.
+Additionally, if there are Surplus Funds in the Transaction, the Internal Rate of Return (IRR) and Modified Internal Rate of Return (MIRR) calculations will default to "0" because there is no investment on which to calculate a return.
+---
+Question: How are Surplus Funds distributed during the acquisition escrow?
+Answer: Surplus Funds created from new debt or equity contributions are distributed during the acquisition escrow to the Equity Groups. The distribution is based on the percentage of their equity contributions or, in the absence of equity contributions, their equity ownership in the Company. This distribution is reflected as an Equity distribution in the Equity Section of the post-closing beginning Balance Sheet.
+---
+Question: How are Surplus Funds reflected in the post closing beginning Balance Sheet?
+Answer: Surplus Funds created from new debt or equity contributions are considered distributed during the acquisition escrow to the Equity Groups. The distribution is made in the percentage of their equity contributions or, in the absence of equity contributions, their equity ownership in the Company. These distributions are then reflected as an Equity distribution in the Equity Section of the post closing beginning Balance Sheet.
+---
+Question: What happens to the IRR/MIRR calculations if there are Surplus Funds?
+Answer: If there are Surplus Funds in a transaction, the IRR/MIRR calculations will default to "0". This is because the Surplus Funds represent an excess amount of funds provided through debt and equity contributions, beyond what is required for the transaction. Since there is no investment made with these surplus funds, there is no basis for calculating a return on investment. Therefore, the IRR/MIRR calculations will be zero in such cases.

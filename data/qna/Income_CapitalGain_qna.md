@@ -1,0 +1,37 @@
+Question: What type of capital gains are considered in the ThruThink analysis?
+Answer: In the ThruThink analysis, all capital gains are considered long-term capital gains. These capital gains represent the sale of assets that have been held for longer than one year. The analysis assumes that net income from these capital gains, including the gain on sale of assets, receipt of performance note principal payments, and after-tax equity returns from an exit sale of the company, are all classified as capital gains. It is important to note that no capital losses will be applied against ordinary income, and any capital losses from the sale of assets will be carried forward to future years to offset against future capital gains.
+---
+Question: What is the Capital Gains rate used for?
+Answer: The Capital Gains rate is used for calculating the tax on the Gain on Sale of Assets by the Company and for items that apply to the individual Equity Owners such as their receipt of Performance Note principal payments and the individual Equity Owners after tax Equity Returns from an Exit Sale of the Company. It is also used to determine the tax on Net Income from these items, which are all assumed to be Capital Gain.
+---
+Question: How are asset sales recorded in the analysis?
+Answer: In the analysis, asset sales are recorded by entering a negative number on the Step 7 Capital Expenditures (CapEx) page. This negative number represents the proceeds from the asset sale. By entering a negative number, the Gross Value of the Asset Class is reduced, and Cash is increased. 
+To fully represent the asset sale, multiple accounting style Adjusting Journal Entries (AJE) in Step 7 need to be made. These AJEs include recording the Gain (Loss) on Sale of Assets, reducing the Accumulated Depreciation, and adjusting the Asset Value to reflect the removal of the Book Value of the asset instead of the proceeds from the sale. 
+It is important to note that capital losses from the sale of assets will be carried into future years to apply against future capital gains. However, no capital loss will be applied against ordinary income. 
+When the Asset Class is reduced to zero, any excess proceeds up to the amount of the accumulated depreciation for that Asset Class will be considered as depreciation recapture and taxed as ordinary income. Any excess proceeds that exceed the Accumulated Depreciation for the Asset Class prior to the sale will be considered as Long Term Capital Gain.
+---
+Question: How does entering a negative number for an asset sale affect the Gross Value of the Asset Class and Cash?
+Answer: Entering a negative number for an asset sale in the *ThruThink* analysis will have an impact on both the Gross Value of the Asset Class and Cash. Specifically, the negative number entered as an asset sale will reduce the Gross Value of the Asset Class and increase the Cash amount.
+In the analysis, the negative number represents the proceeds from the asset sale. By entering this negative number, the Gross Value of the Asset Class will be reduced, reflecting the removal of the book value of the asset. This reduction in the Gross Value of the Asset Class is necessary to accurately represent the asset sale.
+Simultaneously, the negative number entered as an asset sale will increase the Cash amount. This increase in Cash represents the cash inflow resulting from the sale of the asset.
+It is important to note that entering a negative number for an asset sale is just the initial step in recording the sale. To fully represent the asset sale, additional accounting adjustments need to be made in Step 7 using Adjusting Journal Entries (AJE). These AJEs include recording the gain or loss on the sale of assets, reducing the accumulated depreciation, and adjusting the asset value to reflect the removal of the book value.
+Overall, entering a negative number for an asset sale affects the Gross Value of the Asset Class by reducing it and increases the Cash amount to reflect the proceeds from the sale.
+---
+Question: What adjustments need to be made in Step 7 to fully represent an asset sale?
+Answer: To fully represent an asset sale in Step 7, multiple accounting style Adjusting Journal Entries (AJE) will need to be made. These adjustments include:
+1. Recording the Gain (Loss) on Sale of Assets: An AJE should be made to record the gain or loss from the sale of the asset. This entry will reflect the difference between the proceeds from the sale and the book value of the asset.
+2. Reducing Accumulated Depreciation: Another AJE should be made to reduce the accumulated depreciation associated with the asset being sold. This adjustment accounts for the fact that the asset is no longer owned and should no longer be depreciated.
+3. Adjusting the Asset Value: A third AJE is required to adjust the asset value to reflect the removal of the book value of the asset instead of the proceeds from the sale. This adjustment ensures that the asset value accurately reflects the change in ownership.
+By making these adjustments, the analysis in Step 7 will accurately represent the asset sale, including the gain or loss, the reduction in accumulated depreciation, and the adjusted asset value.
+---
+Question: How are capital losses from the sale of assets treated in future years?
+Answer: Capital losses from the sale of assets in the *ThruThink* analysis are carried into future years to apply against future capital gains. This means that if there are capital losses in one year, they can be used to offset capital gains in subsequent years. However, it is important to note that capital losses cannot be applied against ordinary income. Therefore, any capital losses can only be used to offset capital gains and cannot be used to reduce the tax liability on ordinary income.
+---
+Question: What happens when the Asset Class is reduced to zero?
+Answer: When the Asset Class is reduced to zero, any excess proceeds up to the amount of the accumulated depreciation for that Asset Class will be considered as depreciation recapture and will be taxed as Ordinary Income. However, any excess proceeds that exceed the Accumulated Depreciation for the Asset Class prior to the sale will be considered as Long Term Capital Gain.
+---
+Question: How are excess proceeds up to the amount of accumulated depreciation taxed?
+Answer: Excess proceeds up to the amount of accumulated depreciation are taxed as ordinary income. When the Asset Class is reduced to zero, any proceeds that exceed the accumulated depreciation for that Asset Class will be considered as depreciation recapture and will be subject to taxation at the ordinary income tax rate. This means that the excess proceeds will not be treated as long-term capital gains, but rather as regular income for tax purposes.
+---
+Question: How are excess proceeds that exceed the Accumulated Depreciation for the Asset Class taxed?
+Answer: Excess proceeds that exceed the Accumulated Depreciation for the Asset Class are considered as Long Term Capital Gain and are subject to taxation. This means that any amount of money received from the sale of assets that is greater than the total accumulated depreciation for that particular asset class will be treated as a capital gain for tax purposes. The specific tax rate for capital gains will be applied to these excess proceeds. It is important to note that this taxation applies only after the asset class has been reduced to zero and any remaining proceeds beyond the accumulated depreciation are considered as long-term capital gains.
