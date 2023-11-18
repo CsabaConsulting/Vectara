@@ -1,0 +1,63 @@
+###1 -> 1.
+1). -> 1.
+*ThruThink * -> *ThruThink*
+###% -> * %
+
+### Type of Accounts:
+1. Individual Quick Deal
+License note: None
+Subscription Price: None
+Purchase Price: $99
+Term: None
+Renewal subscription after 1st term: One Deal at a time
+Content: One Time Deal Evaluation
+Number of separate individual projects: 1
+Master Account Capability (manage account access): None
+Number of Individual Accounts: ThruThink® Deal Score and PDF Deal Summary, Balance Sheet, Income Statement and Sources and Uses of Cash
+Project Combination Capability within Master Account: None
+
+2. Individual Premium
+License note: None
+Subscription Price: $499
+Purchase Price: N/A
+Term: 6 months
+Renewal subscription after 1st term: $249
+Content: Subscription to the full ThruThink® site
+Number of separate individual projects: Up to 10
+Master Account Capability (manage account access): No
+Number of Individual Accounts: One Individual Account available
+Project Combination Capability within Master Account: None
+
+3. Corporate Basic
+License note: None
+Subscription Price: Coming soon
+Purchase Price: N/A
+Term: 12 months
+Renewal subscription after 1st term: Coming soon
+Content: Subscription to the full ThruThink® site
+Number of separate individual projects: Unlimited
+Master Account Capability (manage account access): Yes
+Number of Individual Accounts: Up to 5 Individual Accounts within Master Account
+Project Combination Capability within Master Account: Up to 10
+
+4. Corporate Premium
+License note: None
+Subscription Price: Coming soon
+Purchase Price: N/A
+Term: 12 months
+Renewal subscription after 1st term: Coming soon
+Content: Subscription to the full ThruThink® site
+Number of separate individual projects: Unlimited
+Master Account Capability (manage account access): Yes
+Number of Individual Accounts: Unlimited Individual Accounts within Master Account
+Project Combination Capability within Master Account: Unlimited
+
+5. University / Classroom
+
+
+Terms of Service: https://app.thruthink.com/docs/ThruThink Terms of Service.pdf
+Sub User TOS: https://app.thruthink.com/docs/ThruThink Sub User TOS.pdf
+Service Level Agreement: https://app.thruthink.com/docs/ThruThink SLA.pdf
+Acceptable Use Policy: https://app.thruthink.com/docs/ThruThink AUP.pdf
+Privacy Policy: https://app.thruthink.com/docs/ThruThink Privacy Policy.pdf
+Cookie Policy: https://app.thruthink.com/docs/ThruThink Cookie Policy.pdf
